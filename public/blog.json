@@ -1,12 +1,12 @@
 [
     {
       "id": "123abc",
-      "cover": "https://example.com/cover1.jpg",
+      "cover": "https://i.ibb.co/SBNhJ1p/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
       "title": "The Mystery of the Sapphire Stone",
       "author": "Emily Smith",
-      "author-img": "https://example.com/authors/emilysmith.jpg",
+      "author-img": "https://i.ibb.co/c2MSTxH/peakpx-6.jpg",
       "posted_date": "2024-03-16",
-      "reading_time": "45 mins",
+      "reading_time": 45 ,
       "hashtag": ["mystery", "adventure", "fiction"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "John Doe",
       "author-img": "https://example.com/authors/johndoe.jpg",
       "posted_date": "2024-03-15",
-      "reading_time": "60 mins",
+      "reading_time": 60 ,
       "hashtag": ["fantasy", "magic", "youngadult"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Alice Johnson",
       "author-img": "https://example.com/authors/alicejohnson.jpg",
       "posted_date": "2024-03-14",
-      "reading_time": "30 mins",
+      "reading_time": 25,
       "hashtag": ["history", "archaeology", "legend"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Michael Brown",
       "author-img": "https://example.com/authors/michaelbrown.jpg",
       "posted_date": "2024-03-13",
-      "reading_time": "75 mins",
+      "reading_time": 75,
       "hashtag": ["sciencefiction", "space", "exploration"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Sarah White",
       "author-img": "https://example.com/authors/sarahwhite.jpg",
       "posted_date": "2024-03-12",
-      "reading_time": "40 mins",
+      "reading_time": 40 ,
       "hashtag": ["horror", "ghosts", "supernatural"]
     }
   ]

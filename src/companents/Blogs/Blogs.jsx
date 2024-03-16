@@ -10,8 +10,8 @@ fetch('blog.json')
 
     },[])
     return (
-        <div>
-            
+        <div className="md:w-2/3">
+         <h1 className="text-4xl">Blog:{blog.length}</h1>   
         </div>
     );
 };
